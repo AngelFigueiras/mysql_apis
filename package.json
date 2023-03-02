@@ -1,0 +1,26 @@
+{
+  "name": "mysql_apis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngelFigueiras/mysql_apis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AngelFigueiras/mysql_apis/issues"
+  },
+  "homepage": "https://github.com/AngelFigueiras/mysql_apis#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.1.2",
+    "nodemon": "^2.0.20"
+  }
+}
